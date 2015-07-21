@@ -1,6 +1,6 @@
 # <wca-title>WCA 规则
 
-<version>版本: 2014年7月1日
+<version>版本: 2015年7月1日
 
 
 ## 注释
